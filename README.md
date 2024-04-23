@@ -39,6 +39,6 @@ and copy the .env.example variables into a separate .env file, fill them out & a
 
 - [Kinde Auth](https://link.joshtriedcoding.com/kinde) for making this project possible
 
-## License
+## Author
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Prathik Shetty
