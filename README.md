@@ -37,7 +37,8 @@ and copy the .env.example variables into a separate .env file, fill them out & a
 
 ## Acknowledgements
 
-- [Kinde Auth](https://link.joshtriedcoding.com/kinde) for making this project possible
+- [JoshTriedCoding](https://www.youtube.com/@joshtriedcoding)
+- [Kinde Auth](https://link.joshtriedcoding.com/kinde)
 
 ## Author
 
